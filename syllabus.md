@@ -43,7 +43,7 @@ Your grades, like most, will be made up of your efforts put forth into the class
 * 30% Design projects and critiques
 * 20% Quizzes
 
-Each grade letter is represents a range of 10 percentage points (A = 90–100, B = 80–89, etc.). Your grades will be updated as regularly as I can keep up with, and will be available on D2L
+Each grade letter represents a range of 10 percentage points (A = 90–100, B = 80–89, etc.). Your grades will be updated as regularly as I can keep up with, and will be available on D2L
 
 
 ## Final Test
