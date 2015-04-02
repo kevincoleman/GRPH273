@@ -1,10 +1,10 @@
 # GRPH 273 - Advanced Web Design
 
-Period: Spring, 2015
-Instructor: Kevin Coleman
-Phone: 509.956.9100
-Email: kevin.coleman@wallawalla.edu
-Github: kevincoleman
+* Term: Spring, 2015
+* Instructor: Kevin Coleman
+* Phone: 509.956.9100
+* Email: kevin.coleman@wallawalla.edu
+* Github: kevincoleman
 
 Welcome to Advanced Web Design! We’ll be covering a lot of varied topics during this course. You’ll be building on your HTML, CSS and Photoshop skills to become comfortable with much more than the basics. It’s my hope that by studying many different aspects of advanced web design & development, each in a surface-level way, you’ll get a chance to learn about some new technologies that make you tick—and then you can go learn more on your own.
 
