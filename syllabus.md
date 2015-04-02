@@ -41,6 +41,9 @@ You’ll also be doing a series of small design projects throughout the quarter.
 There will be a weekly quiz that covers the topic of the week (General Subjects). These Will be on D2L, and will open on Thursday after class is over. They will close On Tuesday before class starts, so you will have three non-Sabbath days to complete them. They are open book/web, and are meant mainly to help you know which key points I want to make sure you retain. However, they also contribute to your grade.
 
 
+## Late Policy
+All of the topic and design projects are due one week from the start of the class in which they were assigned. For example, a project assigned in class on a Thursday will be due *before* class the following Thursday. Late work may be marked down to any degree—or completely not accepted—at the instructor’s discretion. Pro tip: talk to me about your project if you think it will be late. If I understand why it’s late in advance I *may* be more willing to grade kindly.
+
 ## Grades
 Your grades, like most, will be made up of your efforts put forth into the class (surprise)! Here’s a breakdown of how I’ll be structuring it:
 
