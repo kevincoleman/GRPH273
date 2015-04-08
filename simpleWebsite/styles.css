@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: helvetica, arial, sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  color: #880000;
+}
+
+p {
+  max-width: 30em;
+  margin: 0 0 1.5em 0;
+}
