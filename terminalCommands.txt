@@ -4,6 +4,7 @@ cd /
 cd ~/
 ls
 ls -a
+(up/down log shortcut)
 mkdir
 nano 'filename'
 cp
