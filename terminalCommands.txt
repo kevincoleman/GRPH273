@@ -1,0 +1,14 @@
+pwd
+cd ../
+cd /
+cd ~/
+ls
+ls -a
+mkdir
+nano 'filename'
+cp
+rm
+rm -r
+sudo
+
+Absolute vs relative paths
