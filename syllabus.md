@@ -13,7 +13,7 @@ Over the next ten weeks, we’ll be covering these topics, plus a few fillers or
 
 * Accessing Web Servers (& Zone Files)
 * Javascript
-* Unix Command
+* Unix Command & CSS Media Queries
 * Git & GitHub
 * Web Fonts
 * Optimized Images
