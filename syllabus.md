@@ -29,8 +29,8 @@ You’ll also be doing a series of small design projects throughout the quarter.
 * Gallery
 * Contact Form
 * Blog
+* Long-form Reading
 * Search Results
-* Long-form reading
 * Small Business
 * Social profile
 * ...
