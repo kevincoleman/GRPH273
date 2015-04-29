@@ -14,3 +14,24 @@ p {
   max-width: 30em;
   margin: 0 0 1.5em 0;
 }
+
+#main {
+  border: 1px solid black;
+  padding: 2em;
+  margin: 2em;
+}
+
+/* for smaller than 600px */
+@media screen and (max-width: 600px){
+  #main {
+    background-color: red;
+  }
+  h1 {
+    font-size: 5em;
+  }
+}
+
+/* for between 601 and 1000px) */
+@media screen and (min-width: 601px) and (max-width: 1000px) {
+  #main {background-color: green;}
+}
