@@ -53,7 +53,7 @@ Your grades, like most, will be made up of your efforts put forth into the class
 * 20% Quizzes
 * 10% Final Exam & Project
 
-Each grade letter represents a range of 10 percentage points (A = 90–100, B = 80–89, etc.). Your grades will be updated as regularly as I can keep up with, and will be available on D2L
+Each grade letter represents a range of 10 percentage points (A = 90–100, B = 80–89, etc.). Your grades will be updated as regularly as I can keep up with, and will be available on D2L.
 
 
 ## Final Exam
