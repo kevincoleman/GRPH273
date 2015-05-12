@@ -48,15 +48,16 @@ All of the topic and design projects are due one week from the start of the clas
 Your grades, like most, will be made up of your efforts put forth into the class (surprise)! Here’s a breakdown of how I’ll be structuring it:
 
 * 20% Attendance & Participation
-* 30% Projects from weekly topics
-* 30% Design projects and critiques
+* 25% Projects from weekly topics
+* 25% Design projects and critiques
 * 20% Quizzes
+* 10% Final Exam & Project
 
 Each grade letter represents a range of 10 percentage points (A = 90–100, B = 80–89, etc.). Your grades will be updated as regularly as I can keep up with, and will be available on D2L
 
 
-## Final Test
-Be awesome, and I might not make you do a final test (this class is heavily project-based, so it may be a final project—TBD)
+## Final Exam
+The final exam will consist of two parts: a written test, and a final project. Each of these will contribute equally to the Final Exam & Project section of your grade (5% each, for 10% of your total grade). You will be able to review your weekly quizzes to keep up on the exam content, and the final project will have its own description documentation. The final exam period takes place on June 9, 2015, from 7:00pm to 8:50pm. Your project is due *at the start* of this period (at 7:00pm), and your exam is due by the end of it (8:50pm).
 
 
 ## Disabilities
