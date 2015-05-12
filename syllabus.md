@@ -57,7 +57,7 @@ Each grade letter represents a range of 10 percentage points (A = 90–100, B = 
 
 
 ## Final Exam
-The final exam will consist of two parts: a written test, and a final project. Each of these will contribute equally to the Final Exam & Project section of your grade (5% each, for 10% of your total grade). You will be able to review your weekly quizzes to keep up on the exam content, and the final project will have its own description documentation. The final exam period takes place on June 9, 2015, from 7:00pm to 8:50pm. Your project is due *at the start* of this period (at 7:00pm), and your exam is due by the end of it (8:50pm).
+The final exam will consist of two parts: a written test, and a final project. Each of these will contribute equally to the Final Exam & Project section of your grade (5% each, for 10% of your total grade). You will be able to review your weekly quizzes to keep up on the exam content, and the final project will have its own description documentation. The final exam period takes place on June 9, 2015, from 7:00pm to 8:50pm in the Mac Lab in the Canaday Technology Center. Your project is due *at the start* of this period (turned in *before* 7:00pm), and your exam is due by the end of it (8:50pm).
 
 
 ## Disabilities
