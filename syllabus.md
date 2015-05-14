@@ -20,6 +20,7 @@ Over the next ten weeks, we’ll be covering these topics, plus a few fillers or
 * CSS Transitions & Animations
 * Client- vs. Server-side code
 * Wordpress Templates
+* Final Project Code review
 
 
 ## Design Projects
@@ -32,7 +33,8 @@ You’ll also be doing a series of small design projects throughout the quarter.
 * Long-form Reading
 * Search Results
 * Social profile
-* Final Project (2 weeks)
+* Final Project First Draft
+* Final Project Second Draft
 
 
 ## Quizzes
