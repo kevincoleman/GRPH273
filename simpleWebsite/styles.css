@@ -3,11 +3,12 @@
   padding: 0;
   font-size: 16px;
   font-family: helvetica, arial, sans-serif;
+  color: #fff;
 }
 
 h1 {
   font-size: 2em;
-  color: #880000;
+  color: #fff;
 }
 
 p {
@@ -19,6 +20,10 @@ p {
   border: 1px solid black;
   padding: 2em;
   margin: 2em;
+
+  /* for parallax demo */
+  height: 100em;
+  background-image: url('http://www.psdgraphics.com/file/colorful-triangles-background.jpg');
 }
 
 /* for smaller than 600px */
@@ -33,5 +38,32 @@ p {
 
 /* for between 601 and 1000px) */
 @media screen and (min-width: 601px) and (max-width: 1000px) {
-  #main {background-color: green;}
+  #main {
+    background-color: green;
+  }
+}
+
+
+.toggle {
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+  -webkit-transition-duration: 3s;
+     -moz-transition-duration: 3s;
+       -o-transition-duration: 3s;
+          transition-duration: 3s;
+}
+
+button {
+  padding: 1em;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  letter-spacing: 5px;
+  cursor: pointer;
+}
+
+.faded {
+  opacity: 0.1;
 }
